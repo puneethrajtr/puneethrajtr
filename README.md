@@ -10,11 +10,11 @@
 
 I am a **Backend Developer aspirant** with hands-on experience in building **scalable backend systems, REST APIs, and real-world applications** using Python.
 
-* 🔹 Skilled in **Python, Django, Flask, and MySQL**
-* 🔹 Experienced in **API development, authentication (JWT), and MVC architecture**
-* 🔹 Built **AI-integrated applications and real-time systems**
-* 🔹 Strong interest in **Machine Learning, Cybersecurity, and Backend Engineering**
-* 🔹 Actively improving **Data Structures & Algorithms (DSA)**
+*  Skilled in **Python, Django, Flask, and MySQL**
+*  Experienced in **API development, authentication (JWT), and MVC architecture**
+*  Built **AI-integrated applications and real-time systems**
+*  Strong interest in **Machine Learning, Cybersecurity, and Backend Engineering**
+*  Actively improving **Data Structures & Algorithms (DSA)**
 
 ---
 
